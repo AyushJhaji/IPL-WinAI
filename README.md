@@ -6,4 +6,5 @@ IPL Win Prediction Model is a machine learning-based cricket match predictor tha
 Contributors:
 
 [Shashank Sharma](github.com/Shashank1307)
+
 [Ayush Jha](github.com/AyushJhaji)
